@@ -1,0 +1,7 @@
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\bin\Debug\Gauss Seidel.exe.config
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\bin\Debug\Gauss Seidel.exe
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\bin\Debug\Gauss Seidel.pdb
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\obj\Debug\Gauss Seidel.csprojResolveAssemblyReference.cache
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\obj\Debug\Gauss Seidel.csproj.CoreCompileInputs.cache
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\obj\Debug\Gauss Seidel.exe
+C:\Users\PIMPO\source\repos\Gauss Seidel\Gauss Seidel\obj\Debug\Gauss Seidel.pdb
