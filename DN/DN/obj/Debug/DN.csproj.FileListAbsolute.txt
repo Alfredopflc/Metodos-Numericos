@@ -1,0 +1,8 @@
+c:\users\pimpo\source\repos\DN\DN\bin\Debug\DN.exe.config
+c:\users\pimpo\source\repos\DN\DN\bin\Debug\DN.exe
+c:\users\pimpo\source\repos\DN\DN\bin\Debug\DN.pdb
+c:\users\pimpo\source\repos\DN\DN\bin\Debug\Calculus.dll
+c:\users\pimpo\source\repos\DN\DN\obj\Debug\DN.csprojResolveAssemblyReference.cache
+c:\users\pimpo\source\repos\DN\DN\obj\Debug\DN.csproj.CoreCompileInputs.cache
+c:\users\pimpo\source\repos\DN\DN\obj\Debug\DN.exe
+c:\users\pimpo\source\repos\DN\DN\obj\Debug\DN.pdb
