@@ -1,0 +1,7 @@
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csprojResolveAssemblyReference.cache
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csproj.CoreCompileInputs.cache
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe.config
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.pdb
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.exe
+C:\Users\PIMPO\source\repos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.pdb
