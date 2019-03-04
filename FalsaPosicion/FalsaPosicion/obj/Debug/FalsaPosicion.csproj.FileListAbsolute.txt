@@ -1,0 +1,7 @@
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\bin\Debug\FalsaPosicion.exe.config
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\bin\Debug\FalsaPosicion.exe
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\bin\Debug\FalsaPosicion.pdb
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\obj\Debug\FalsaPosicion.csprojResolveAssemblyReference.cache
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\obj\Debug\FalsaPosicion.csproj.CoreCompileInputs.cache
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\obj\Debug\FalsaPosicion.exe
+C:\Users\PIMPO\source\repos\FalsaPosicion\FalsaPosicion\obj\Debug\FalsaPosicion.pdb
